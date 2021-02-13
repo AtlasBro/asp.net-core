@@ -1,1 +1,1 @@
-# asp.net-core
+# process of learning asp.net-core
